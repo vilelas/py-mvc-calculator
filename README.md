@@ -28,7 +28,7 @@ python main.py
 
 ## Como usar
 
-Ao iniciar a aplicação, você verá uma tela com as opções de operações matemáticas. Selecione a operação desejada e insira os números nos campos indicados. Em seguida, pressione o botão "Enter" do seu teclado para obter o resultado.
+Ao iniciar a aplicação, você verá uma tela com as opções de operações matemáticas. Selecione o número correspondente a operação desejada e insira os números nos campos indicados. Em seguida, pressione o botão "Enter" do seu teclado para obter o resultado.
 
 ## Arquitetura
 
